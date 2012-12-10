@@ -16,6 +16,7 @@ namespace ReverseTestService
         void ReceiveData(string value);
 
         [OperationContract]
+        [WebInvoke(Method="GET", ResponseFormat= WebMessageFormat.Json, UriTemplate="/")]
         string HelloWorld();
     }
 }
