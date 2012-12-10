@@ -16,5 +16,10 @@ namespace ReverseTestService
         {
             // save here
         }
+
+        public string HelloWorld()
+        {
+            return "Hello World";
+        }
     }
 }

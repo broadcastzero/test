@@ -14,5 +14,8 @@ namespace ReverseTestService
     {
         [OperationContract]
         void ReceiveData(string value);
+
+        [OperationContract]
+        string HelloWorld();
     }
 }
