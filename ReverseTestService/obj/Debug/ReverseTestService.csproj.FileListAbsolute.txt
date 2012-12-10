@@ -5,6 +5,5 @@ C:\Users\Felix\Documents\GitHub\test\ReverseTestService\ReverseTestService\obj\D
 C:\Users\Felix\Documents\GitHub\test\ReverseTestService\ReverseTestService\obj\Debug\ReverseTestService.pdb
 C:\Users\Felix\Documents\GitHub\test\ReverseTestService\bin\ReverseTestService.dll
 C:\Users\Felix\Documents\GitHub\test\ReverseTestService\bin\ReverseTestService.pdb
-C:\Users\Felix\Documents\GitHub\test\ReverseTestService\obj\Debug\ReverseTestService.csprojResolveAssemblyReference.cache
 C:\Users\Felix\Documents\GitHub\test\ReverseTestService\obj\Debug\ReverseTestService.dll
 C:\Users\Felix\Documents\GitHub\test\ReverseTestService\obj\Debug\ReverseTestService.pdb
