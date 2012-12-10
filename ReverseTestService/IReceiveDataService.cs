@@ -13,6 +13,7 @@ namespace ReverseTestService
     public interface IReceiveDataService
     {
         [OperationContract]
+        [WebInvoke(Method="POST", RequestFormat = WebMessageFormat.Json, ResponseFormat= WebMessageFormat.Json, UriTemplate="/Add")]
         void ReceiveData(string value);
 
         [OperationContract]
